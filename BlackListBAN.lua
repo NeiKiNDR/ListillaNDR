@@ -1,1 +1,1 @@
-ListaNegra = {}
+ListaNegra = {2964331510}
