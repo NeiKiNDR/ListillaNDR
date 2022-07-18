@@ -1,1 +1,1 @@
-ListaNegra = {}
+ListaNegra1 = {}
