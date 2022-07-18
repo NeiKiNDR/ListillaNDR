@@ -1,2 +1,2 @@
-ListaNegra = {"NabilDr1";}
+ListaNegra = {}
  
