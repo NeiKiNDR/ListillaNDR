@@ -1,2 +1,2 @@
-ListaNegra = {julian1547yt}
+ListaNegra = {julian1547yt;SpinjitzuMaster}
  
