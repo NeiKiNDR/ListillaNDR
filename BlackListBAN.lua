@@ -1,1 +1,1 @@
-ListaNegra1 = {Emiliano808097,MxgicNabil,Aminyxz}
+ListaNegra1 = {Emiliano808097,MxgicNabil,Aminyxz,}
