@@ -1,3 +1,15 @@
 ListaNegra1 = {
-  "Emiliano808097","MxgicNabil","345964",
+  "Emiliano808097",
+  "MxgicNabil",
+  "345964",
+  "BOOGABLOZxD",
+  "BOOGABLOZxDD",
+  "BOOGABLOZxD_FS",
+  "BOOGABLOZxD52",
+  "BOOGABLOZxDD1",
+  "BOOGABLOZxdd12",
+  "BOOGABLOZxD22",
+  "BOOGABLOZxD_Dev",
+  "BOOGABLOZxD_Devv",
+  "BOOGABLOZxDD123",
 }
