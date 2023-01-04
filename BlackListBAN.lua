@@ -1,7 +1,6 @@
 ListaNegra1 = {
   "Emiliano808097",
   "MxgicNabil",
-  "345964",
   "BOOGABLOZxD",
   "BOOGABLOZxDD",
   "BOOGABLOZxD_FS",
