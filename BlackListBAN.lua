@@ -11,6 +11,7 @@ ListaNegra1 = {
   "BOOGABLOZxD_Dev",
   "BOOGABLOZxD_Devv",
   "BOOGABLOZxDD123",
+  "vegeta_cs12",
 }
 
 local ListOfBannedPeople = {
