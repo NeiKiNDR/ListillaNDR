@@ -13,3 +13,15 @@ ListaNegra = {
   "BOOGABLOZxDD123",
 }
  
+local ListOfBannedPeople = {
+  "BOOGABLOZxD",
+  "BOOGABLOZxDD",
+  "BOOGABLOZxD_FS",
+  "BOOGABLOZxD52",
+  "BOOGABLOZxDD1",
+  "BOOGABLOZxdd12",
+  "BOOGABLOZxD22",
+  "BOOGABLOZxD_Dev",
+  "BOOGABLOZxD_Devv",
+  "BOOGABLOZxDD123",
+}
